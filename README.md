@@ -1,1 +1,0 @@
-# -tensorflow-certification-study-guide
